@@ -1,0 +1,124 @@
+body {
+background-color: white;
+font-family: 'Comfortaa', cursive;
+
+
+}
+
+
+header {
+
+  font-family: 'Righteous', cursive;
+  background-image: url(images/bg-header-01.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+
+
+
+font-family: 'Righteous', cursive;
+
+
+}
+h2 {
+font-family: 'Righteous', cursive;
+
+}
+
+
+
+section {
+
+background-color: white;
+
+
+}
+
+.header-content {
+
+background-color: #FF0071;
+max-width: 500px;
+
+
+
+
+}
+
+#biography {
+
+}
+
+.bio-content {
+
+
+}
+
+#mes-competences {
+
+
+}
+
+
+.comp-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+
+
+}
+
+.comp-block {
+margin: 12px;
+
+
+
+}
+
+
+.portfolio-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+
+
+}
+
+.portfolio-block {
+margin: 12px;
+
+
+
+}
+
+footer {
+  margin-left: 25px;
+  margin-right: 25px;
+
+  float: left;
+
+  width:25%;
+
+
+}
+
+.contacts {
+
+
+
+}
+
+.social-media {
+
+
+
+}
